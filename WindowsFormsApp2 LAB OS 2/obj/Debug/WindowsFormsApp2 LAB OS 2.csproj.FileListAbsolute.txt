@@ -1,0 +1,10 @@
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\bin\Debug\WindowsFormsApp2 LAB OS 2.exe.config
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\bin\Debug\WindowsFormsApp2 LAB OS 2.exe
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\bin\Debug\WindowsFormsApp2 LAB OS 2.pdb
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\obj\Debug\WindowsFormsApp2 LAB OS 2.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\obj\Debug\WindowsFormsApp2_LAB_OS_2.Form1.resources
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\obj\Debug\WindowsFormsApp2_LAB_OS_2.Properties.Resources.resources
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\obj\Debug\WindowsFormsApp2 LAB OS 2.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\obj\Debug\WindowsFormsApp2 LAB OS 2.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\obj\Debug\WindowsFormsApp2 LAB OS 2.exe
+C:\Users\Denis\source\repos\WindowsFormsApp2 LAB OS 2\WindowsFormsApp2 LAB OS 2\obj\Debug\WindowsFormsApp2 LAB OS 2.pdb
